@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>168643096197-9lb9t9vusm7im1g7k21auo1ev0q8s28g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.168643096197-9lb9t9vusm7im1g7k21auo1ev0q8s28g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>168643096197-usrl3tqm32uhqqebe83boptvbhsvc3ht.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAaF5_p9ly2DFygXiEtDXcm-XFePH19SgA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>168643096197</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterLabs</string>
+	<key>PROJECT_ID</key>
+	<string>react-native-worktest</string>
+	<key>STORAGE_BUCKET</key>
+	<string>react-native-worktest.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:168643096197:ios:ee8cee0d591d98f3a6c3ec</string>
+</dict>
+</plist>
